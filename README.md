@@ -1,0 +1,2 @@
+# AS_UI_ImageView02
+基于AS简单的照片查看器及PS中理想的UI设计
